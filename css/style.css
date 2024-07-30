@@ -10,3 +10,13 @@ a.emoji-link {
 a.links {
   text-decoration: none;
 }
+html {
+  color-scheme: light dark;
+}
+body {
+  width: 35em; margin: 0 auto;
+  font-family: Tahoma, Verdana, Arial, sans-serif;
+}
+.typing-body {
+  font-size: 2em;
+}
